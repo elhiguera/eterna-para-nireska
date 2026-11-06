@@ -1,0 +1,49 @@
+ETERNA — Proyecto web para Nireska
+====================================
+
+Archivos:
+- index.html: página principal.
+- styles.css: diseño adaptable a teléfonos y computadoras.
+- script.js: contador, galería y cartitas interactivas.
+- media/fotos/: coloca aquí las 8 fotografías.
+- media/videos/: coloca aquí los 6 videos.
+
+IMPORTANTE: las fotos y videos originales que compartiste anteriormente no estaban disponibles en el espacio de creación de este ZIP. Por eso la página trae los espacios preparados, pero debes copiar tus archivos para que aparezcan.
+
+NOMBRES DE ARCHIVOS
+Fotos:
+  media/fotos/foto-01.jpg
+  media/fotos/foto-02.jpg
+  ...
+  media/fotos/foto-08.jpg
+
+Videos:
+  media/videos/video-01.mp4
+  media/videos/video-02.mp4
+  ...
+  media/videos/video-06.mp4
+
+Si tus fotos son PNG o WEBP, conviértelas a JPG o cambia la extensión en script.js.
+Para videos, se recomienda MP4.
+
+MÚSICA
+La página no incluye una copia de "Sweater Weather" porque es música protegida por derechos de autor. Los navegadores también suelen bloquear el sonido automático. Para agregar música de forma correcta, utiliza un reproductor o enlace oficial y haz que la persona pulse reproducir. La canción acordada es:
+The Neighbourhood — Sweater Weather
+
+PROBAR EN WINDOWS
+1. Descomprime ETERNA.zip.
+2. Abre la carpeta ETERNA.
+3. Haz doble clic en index.html.
+4. Pulsa "Abrir mi sorpresa" y revisa las secciones.
+
+PUBLICAR GRATIS CON GITHUB PAGES
+1. Entra en https://github.com e inicia sesión.
+2. Crea un repositorio nuevo llamado eterna-para-nireska.
+3. Déjalo como Public.
+4. Sube el contenido de esta carpeta (index.html, styles.css, script.js y la carpeta media).
+5. En el repositorio abre Settings > Pages.
+6. En "Build and deployment", selecciona "Deploy from a branch".
+7. Selecciona la rama "main" y la carpeta "/ (root)", y guarda.
+8. Espera a que GitHub Pages publique el sitio. El enlace aparecerá en Settings > Pages.
+
+El contador comienza el 27 de septiembre de 2026.
